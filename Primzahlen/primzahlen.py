@@ -1,3 +1,8 @@
+#Erik Brinker
+#ETS2021
+#17.11.2021
+
+
 #Ermitteln Sie für einen festgelegten Zahlenbereich 
 # Primzahlen und schreiben Sie diese in eine Liste. Geben Sie die Liste anschließend aus.
 

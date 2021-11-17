@@ -1,3 +1,8 @@
+#Erik Brinker
+#ETS2021
+#17.11.2021
+
+
 Zahl_durch_neun = []
 
 for i in range(100,200):

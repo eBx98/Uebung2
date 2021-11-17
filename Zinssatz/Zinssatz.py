@@ -1,3 +1,8 @@
+#Erik Brinker
+#ETS2021
+#17.11.2021
+
+
 #Sie bauen ein Haus und wollen wissen wieviel Geld Sie bei einer bestimmten Summe
 #und einem bestimmten Zinssatz monatlich zahlen müssen, wenn Sie in 10 Jahren schuldenfrei sein wollen.
 import math
